@@ -16,7 +16,7 @@ void drawCircle(int x,int y,int xc,int yc)
 }
 int main()
 {
-
+  //tazim
     int gd = DETECT, gm;
 	initgraph(&gd, &gm, "C:\\TC\\BGI");
     ll i,j,m,na,b;
